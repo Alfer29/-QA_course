@@ -1,0 +1,41 @@
+body{background-color:yellow;}
+form{
+	border:1px solid blue;
+	width:70%;
+	height:225px;
+	float:left;
+}	
+label{
+	display: inline-block;
+	width: 80px;
+}
+.dv1{
+	border:1px solid blue;
+	padding-left:5px;
+	width:80%;
+	height:400px;
+}
+.dv2{
+	border:1px solid blue;
+	width:30%;
+	float:left;
+	display: block;
+}
+.dv3{
+	border:1px solid blue;
+	width:50%;
+	float:left;
+	display: block;
+	margin-left: 10px;
+	padding: 10px;
+}
+
+.img{
+	display: block;
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.sub{
+	margin-left: 224px;
+}
